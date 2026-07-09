@@ -1,4 +1,0 @@
-interface:
-  display_name: "对标内容拆解"
-  short_description: "拆解竞品账号内容信号并提炼可复用爆款与转化增长规律"
-  default_prompt: "Use $competitor-content-breakdown to analyze which accounts and content patterns have real conversion potential for my product."
